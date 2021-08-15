@@ -18,7 +18,7 @@ Advocate and Evangelist for Full Cycle Development and Microservices Architectur
 
 :>>>
 
-<img align="right" width="300" src="https://raw.github.comleodisarli/leodisarli/master/assets/programming.gif" />
+<img align="right" width="300" src="https://raw.github.com/leodisarli/leodisarli/master/assets/programming.gif" />
 
 ```php
 $whoAmI = [
