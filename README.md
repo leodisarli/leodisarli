@@ -25,17 +25,8 @@ $whoAmI = [
     'username' => 'leodisarli',
     'name' => 'Leonardo Di Sarli',
     'organization' => 'Kiwfy Software Foundation',
-    'primarySkyllset' => [
-        'Linux',
-        'PHP',
-        'Node',
-        'Python',
-        'Go',
-        'Docker',
-        'Elasticsearch',
-        'Redis',
-        'AWS',
-    ];
+    'drink_coffe' => false,
+];
 ```
 
 ## **GitHub Stats**
