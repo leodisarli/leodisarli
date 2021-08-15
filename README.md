@@ -45,7 +45,7 @@ $whoAmI = [
 [linkedin]: https://www.linkedin.com/in/disarli/
 <br>
 
-#### Rede Sociais!
+#### Usefull links!
 
 🏡 [website][website] **|** 
 👔 [linkedin][linkedin]
