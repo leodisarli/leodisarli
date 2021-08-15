@@ -25,7 +25,8 @@ $whoAmI = [
     'username' => 'leodisarli',
     'name' => 'Leonardo Di Sarli',
     'organization' => 'Kiwfy Software Foundation',
-    'drink_coffe' => false,
+    'is_developer' => true,
+    'do_i_drink_coffe' => false,
 ];
 ```
 
