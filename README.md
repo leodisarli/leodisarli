@@ -1,6 +1,6 @@
-### Hello folks! 👋
+### Hey folks! 👋
 
-Software Engineer with over 25 years of experience, passionate about technology and development. ([check my LinkedIn](https://www.linkedin.com/in/disarli))
+I'm a Software Engineer with over 25 years of experience, passionate about technology and development. ([check my LinkedIn](https://www.linkedin.com/in/disarli))
 
 My heart beats at my fingertips, at about 100 keys per minute creating disruptive, resilient, reliable technological solutions in high availability and performance environments.
 
