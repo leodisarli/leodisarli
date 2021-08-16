@@ -37,7 +37,7 @@ $whoAmI = [
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leodisarli&theme=dracula&hide_langs_below=1&langs_count=10&layout=compact" />
 </a>
 
-<a href="https://github.com/Gurupreet">
+<a href="https://github.com/leodisarli">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=leodisarli&show_icons=true&theme=dracula&line_height=27&include_all_commits=1&count_private=true" alt="leodisarli github stats"/>
 </a>
 
