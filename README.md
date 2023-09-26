@@ -24,7 +24,7 @@ Advocate and Evangelist for Full Cycle Development and Microservices Architectur
 $whoAmI = [
     'username' => 'leodisarli',
     'name' => 'Leonardo Di Sarli',
-    'organization' => 'Kiwfy Software Foundation',
+    'organization' => 'Not Empty Free Software Foundation',
     'coding_since' => 1994,
     'is_developer' => true,
     'do_i_drink_coffe' => false,
