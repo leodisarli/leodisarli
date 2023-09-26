@@ -6,7 +6,7 @@ My heart beats at my fingertips, at about 100 keys per minute creating disruptiv
 
 Lover of well written codes and good practices (just don't ask me about Liskov). My biggest pride is having 200% test coverage on my PHP microframework for microservices ([ala-microservice-php](https://github.com/kiwfy/ala-microservice-php)). (I know, sounds weird, but I can explain: 100% coverage in unit tests + 100% coverage in feature tests)
 
-Proud founder of the [Kiwfy Software Foundation](https://github.com/kiwfy), a non-profit organization to foster the development of scalable open source solutions, with modern, easy-to-use technology to improve the lives of developers and enthusiasts.
+Proud founder of the [Not Empty Free Software Foundation](https://github.com/not-empty), a non-profit organization to foster the development of scalable open source solutions, with modern, easy-to-use technology to improve the lives of developers and enthusiasts.
 
 Technological alchemist, using Linux, PHP, Node, Python, Go, Docker, Elasticsearch, Redis and other ingredients, to try to find the philosopher's stone, or at least reduce the amount of bugs ;)
 
